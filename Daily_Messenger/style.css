@@ -1,0 +1,18 @@
+body{
+  background-color:pink;
+  margin:0;
+}
+
+.header{
+background-color: red;
+}
+
+.content{
+background-color: blue;  
+}
+
+.footer{
+  background:green;
+}
+
+/* ---------------- */
